@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <string name="app_name">Calculator for Glass™</string>
+   
+    <!-- Menu Options -->
+    <string name="option_readaloud">Read aloud</string>
+    <string name="option_relaunch">Calculate again</string> 
+    
+    <!-- UI -->
+	<string name="zero_value">Calculate\nSay something like, \"How much is 64 x 56?\"</string>
+	<string name="the_answer">The suggested answer is:</string>
+	<string name="gray_logo">This the application logo.</string>
+	<string name="no_connectivity">No network connectivity</string>
+    <string name="no_connectivity_footnote">Tap to view connection settings</string>
+	<string name="no_results">No results found</string>
+    <string name="tap_to_calc_again">Tap to calculate again</string>
+    <string name="please_try_again">Please try again!</string>
+    <string name="read_aloud_prefix">the answer is </string>
+    <string name="unable_to_read_aloud">unable to read aloud the answer</string>
+    <string name="glass_voice_prompt">Say something like, \"How much is 64 x 56?\"</string>
+    
+        
+</resources>

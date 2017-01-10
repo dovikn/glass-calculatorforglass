@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   
+    <item
+        android:id="@+id/op_relaunch"
+        android:icon="@drawable/ic_plus_50"
+        android:title="@string/option_relaunch"/>
+    <item
+        android:id="@+id/op_readaloud"
+        android:icon="@drawable/ic_read_aloud_50"
+        android:title="@string/option_readaloud"/>
+</menu>
